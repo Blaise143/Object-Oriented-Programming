@@ -12,4 +12,3 @@ class Human:
     
     def get_height(self) -> int:
         return self.height
-
